@@ -1,1 +1,1 @@
-# React-Covid-Tracker
+Realtime React Covid Tracker
